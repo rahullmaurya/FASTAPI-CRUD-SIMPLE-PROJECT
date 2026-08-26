@@ -23,7 +23,7 @@ uvicorn main:app --reload
 ## API Docs
 
 Swagger UI:
-http://127.0.0.1:8000/docs
+https://fastapi-crud-simple-project-3.onrender.com/docs
 
 ## Note
 
