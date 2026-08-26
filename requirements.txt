@@ -1,0 +1,8 @@
+# Requirements for FASTAPI-CRUD-SIMPLE-PROJECT
+# Common dependencies for a FastAPI CRUD example. Adjust versions as needed.
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-multipart
+aiofiles
